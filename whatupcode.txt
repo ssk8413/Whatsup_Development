@@ -15,3 +15,5 @@ hding the last seen
 adding a audio call feature
 
 adding a video call feature
+
+Adding status so that users can play train games
